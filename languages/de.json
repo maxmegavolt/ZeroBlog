@@ -1,0 +1,53 @@
+{
+    "Add new post": "Neuen Beitrag hinzufügen",
+    "Follow in Newsfeed": "Folge im Newsfeed",
+    "Username mentions": "Erwähnungen",
+    "Posts": "Beiträge",
+    "0 Comments:": "0 Kommentare:",
+    "Comments": "Kommentare",
+    "Following": "Folge",
+
+    "Like this post": "Mag diesen Beitrag",
+    "Latest comments:": "Letzte Kommentare:",
+    "Reply": "Antworten",
+
+    "Bold": "Fett",
+    "Italic": "Kursiv",
+    "Strikethrough": "Durchgestrichen",
+    "Code": "Kode",
+    "Link": "Link",
+    "Type or paste link here": "URL hier eingeben oder einfügen",
+
+    "**bold**": "**fett**",
+    "_italic_": "_kursiv_",
+    "strikethrough": "durchgestrichen",
+    "- Lists": "- Listen",
+    "1. Numbered lists": "1. nummerierte Liste",
+    "[Links](http://www.zeronet.io)": "[Links](http://www.zeronet.io)",
+    "[References][1]<br>[1]: Can be used": "[Verweis][1]<br>[1]: Verwendbarkeit",
+    "&gt; Quotes": "&gt; Zitate",
+    "--- Horizontal rule": "--- horizontale Linie",
+
+    "More comments": "Mehr Kommentare...",
+    "Sign in as...": "Einloggen als...",
+    "Submit comment": "Kommentieren",
+    "Please sign in": "Bitte einloggen",
+    "new comment": "Neuer Kommentar",
+    "used: ": "Benutzt : ",
+
+    " minutes ago": " Minuten",
+    " hours ago": " Stunden",
+    " days ago": " Tage",
+    "on ": "am ",
+    "Just now": "Gerade jetzt",
+    "less than 1 min read": "vor 1 Minute gelesen",
+    " min read": " Minuten zu lesen",
+
+    "Content changed": "Inhalt geändert",
+    "Sign &amp; Publish new content": "Einloggen und neuen Inhalt veröffentlichen",
+
+    " Editing: ": " Bearbeiten : ",
+    "Save": "Speichern",
+    "Cancel": "Abbrechen",
+    "Delete ": "Löschen "
+}
